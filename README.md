@@ -48,6 +48,8 @@ Primary use case: capturing incoming TGTs on servers with **unconstrained delega
 
 ## How it works
 
+https://github.com/user-attachments/assets/c283a6a2-2305-4881-b81f-45176b250c0a
+
 1. Elevates to SYSTEM by duplicating the `winlogon.exe` token
 2. Connects to the LSA via `LsaConnectUntrusted`
 3. Enumerates all logon sessions with `LsaEnumerateLogonSessions`
