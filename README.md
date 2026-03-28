@@ -10,7 +10,6 @@ Primary use case: capturing incoming TGTs on servers with **unconstrained delega
 
 ## Requirements
 
-- Windows (uses `secur32.dll` / LSA APIs)
 - PowerShell 5.1+
 - **Administrator** (elevated) session
 
