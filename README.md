@@ -1,6 +1,6 @@
 # PS-KUD
 
-Pure PowerShell Kerberos Unconstrained Delegation monitor. A port of Rubeus's `monitor` command with zero external dependencies — just PowerShell and native Windows APIs.
+Pure PowerShell Kerberos Unconstrained Delegation monitor. A port of Rubeus's `monitor` command with zero external dependencies — just PowerShell and native Windows APIs. For more information about the code itself, check my [article](https://blog.y00ga.lol/PERSO/PUBLISH/Article+perso/PS-KUD+-+or+How+I+Learned+to+Stop+Packing+and+Love+the+TGT)
 
 ## What it does
 
